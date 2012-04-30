@@ -1,0 +1,20 @@
+{
+  "name": "camera",
+  "version": "0.5.7",
+  "private": true,
+  "dependencies": {
+    "director": "*",
+    "node-static": "*"
+  },
+  "scripts": {
+    "start": "bin/server.js"
+  },
+  "main": "bin/server.js",
+  "engines": {
+    "node": "0.6.x"
+  },
+  "description": "webcam test",
+  "homepage": "http://lxjs.org",
+  "devDependencies": {},
+  "databases": {}
+}
